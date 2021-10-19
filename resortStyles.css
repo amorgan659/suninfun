@@ -1,0 +1,39 @@
+body {
+	padding: 10px;
+	margin: 10px;
+	font-family: Comic Sans MS;
+	background-color: #FAEBD7;
+	color: #00008B;
+}
+.header {
+border: 3px solid orange;
+background-color: lightblue; 
+text-align: center;
+}
+img {
+	height: 300px;
+	width: 300px;
+	border: 3px solid orange;
+}
+.pic {
+	padding: 10px;
+	
+}
+#btn1 {
+	border: 2px solid orange;
+	background-color: #FFFFFF;
+	padding: 5px;
+	color: #00008B;
+}
+#btn2 {
+	border: 2px solid orange;
+	background-color: #FFFFFF;
+	padding: 5px;
+	color: #00008B;
+}
+#am {
+	color: #B8860B;
+}
+#nearby {
+	color: #006400;
+}
